@@ -1,33 +1,31 @@
-
 <div align="center">
-  
+
 ### Contributions
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-  
----
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+
+<br/>
 
 ### GitHub & BOJ Stats
-
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center"><strong>BOJ Stats</strong></td>
-    <td align="center"><strong>GitHub Stats</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="50%" valign="top">
+      <strong>Solved.ac</strong><br/><br/>
       <a href="https://solved.ac/lhs5427ll/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs5427ll" height="150" />
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lhs5427ll" height="170" />
       </a>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=poketopa&show_icons=true&theme=vue" height="150" />
+    <td align="center" width="50%" valign="top">
+      <strong>GitHub Stats</strong><br/><br/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=poketopa&show_icons=true&theme=vue&height=170" height="170" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### Stacks
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,redis,kafka,docker,kubernetes,aws,git,linux&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,docker,redis,kafka,kubernetes,aws,git,linux" />
 </div>
