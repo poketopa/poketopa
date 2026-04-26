@@ -1,7 +1,7 @@
 
 <div align="center">
   
-### My Contributions
+### Contributions
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
 ---
@@ -27,7 +27,7 @@
 
 ---
 
-### Stack
+### Stacks
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,docker,redis,kafka,kubernetes,aws,git,linux" />
 </div>
