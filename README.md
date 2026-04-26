@@ -5,6 +5,11 @@
 
 - **Department of AI Cyber Security, Korea University Sejong Campus**
 - Aspiring **backend developer** with focus on Java, Spring, and JPA
+
+---
+
+### My 3D Contributions
+![](./profile-3d-contrib/profile-night-rainbow.svg)
   
 ---
 
