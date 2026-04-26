@@ -5,6 +5,10 @@
 
 <br/>
 
+---
+
+<br/>
+
 ### GitHub & BOJ Stats
 <table width="100%">
   <tr>
@@ -20,6 +24,10 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
 
 <br/>
 
