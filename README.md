@@ -1,12 +1,10 @@
-## 🎓 Education
+#### 🎓 Education
 
-| 기간 | 교육 | 내용 |
-| --- | --- | --- |
-| 2026.02–2026.11 예정 | **우아한테크코스 8기 백엔드** | Java·Spring, 객체지향 설계, 테스트, 코드 리뷰 · 진행 중 |
-| 2020.03–2026.02 | **고려대학교 세종캠퍼스** | 인공지능사이버보안학과 공학사 · 사이버보안 마이크로디그리 |
-| 2024.08–2024.10 | **수도권 ICT 이노베이션스퀘어** | 블록체인 심화 160시간 수료 · 팀 프로젝트 최우수상 |
+- 우아한테크코스 8기 백엔드 과정 <sub>(26.02–26.11 예정 · 진행 중)</sub>
+- 고려대학교 세종캠퍼스 인공지능사이버보안학과 공학사 <sub>(20.03–26.02)</sub>
+- 수도권 ICT 이노베이션스퀘어 블록체인 심화 수료 · 160시간 · 팀 프로젝트 최우수상 <sub>(24.08–24.10)</sub>
 
-## 📄 Patent
+#### 📄 Patent
 
 **블록체인을 기반으로한 구매 영수증 관리 시스템 및 그 방법** · 공동 발명자
 
@@ -18,7 +16,7 @@ NFT 기반 구매 영수증 관리 아이디어를 공동 발명으로 출원하
 
 [공개 공보 보기](https://patents.google.com/patent/KR20260062002A/en)
 
-## 🌱 Open Source
+#### 🌱 Open Source
 
 | Project | Contribution | Pull request |
 | --- | --- | --- |
@@ -31,26 +29,22 @@ NFT 기반 구매 영수증 관리 아이디어를 공동 발명으로 출원하
 
 <sub>PR 상태는 2026.10.15 기준입니다.</sub>
 
-## 📜 Certifications
+#### 📜 Certifications
 
-| 자격 | 취득·합격 시기 | 기관 |
-| --- | --- | --- |
-| **정보처리기사** | 2025 | 한국산업인력공단 |
-| **SQL 개발자(SQLD)** | 2026.03.27 | 한국데이터산업진흥원 |
-| **리눅스마스터 2급** | 2023.12.29 | 한국정보통신진흥협회 |
-| **네트워크관리사 2급** | 2021.12.21 | 한국정보통신자격협회 |
-| **OPIc English IH** | 2026.07.11 | ACTFL |
+- 정보처리기사 <sub>(2025)</sub>
+- SQL 개발자(SQLD) <sub>(26.03)</sub>
+- 리눅스마스터 2급 <sub>(23.12)</sub>
+- 네트워크관리사 2급 <sub>(21.12)</sub>
+- OPIc English IH <sub>(26.07)</sub>
 
-## 🔬 Research and Activities
+#### 🔬 Research and Activities
 
-| 기간 | 활동 |
-| --- | --- |
-| 2021 | **AES-128 CPA 학부 연구** · 전력 트레이스 기반 키 복원 실험 · [코드](https://github.com/poketopa/side-channel-attack-cpa-on-aes-128) |
-| 2025 | **멋쟁이사자처럼 운영진** · 백엔드 교육·프로젝트 활동 |
-| 2021.03–2021.12 | **제5대 인공지능사이버보안학과 학생회장** |
-| 2020.03–2021.12 | **Kuality 해킹 동아리 · KoRec 암호 동아리** |
-| 2022.04–2024.01 | **공군 정보보호병** · 병장 만기전역 |
-| 2023.12.14 | **공군참모총장 우수상** · 공군 우수 독후감 선발대회 일반도서 부문 |
+- AES-128 CPA 학부 연구 · 전력 트레이스 기반 키 복원 실험 · [코드](https://github.com/poketopa/side-channel-attack-cpa-on-aes-128) <sub>(2021)</sub>
+- 멋쟁이사자처럼 운영진 <sub>(2025)</sub>
+- 제5대 인공지능사이버보안학과 학생회장 <sub>(21.03–21.12)</sub>
+- Kuality 해킹 동아리 · KoRec 암호 동아리 <sub>(20.03–21.12)</sub>
+- 공군 정보보호병 · 병장 만기전역 <sub>(22.04–24.01)</sub>
+- 공군 우수 독후감 선발대회 일반도서 부문 우수상 · 공군참모총장 <sub>(23.12)</sub>
 
 <br/>
 
@@ -58,7 +52,7 @@ NFT 기반 구매 영수증 관리 아이디어를 공동 발명으로 출원하
 
 <div align="center">
 
-### Contributions
+#### Contributions
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 
 <br/>
@@ -67,7 +61,7 @@ NFT 기반 구매 영수증 관리 아이디어를 공동 발명으로 출원하
 
 <br/>
 
-### GitHub & BOJ Stats
+#### GitHub & BOJ Stats
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
@@ -89,7 +83,7 @@ NFT 기반 구매 영수증 관리 아이디어를 공동 발명으로 출원하
 
 <br/>
 
-### Stacks
+#### Stacks
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,redis,kafka,docker,kubernetes,aws,git,linux&theme=dark" />
 </p>
