@@ -42,10 +42,11 @@ NFT 기반 구매 영수증 관리 아이디어를 발명 및 특허 출원
 ### 🧑🏻‍💻 활동
 
 - 제5대 인공지능사이버보안학과 학생회장 <sub>(21.03–21.12)</sub>
-- AES-128 CPA 학부 연구 · 전력 트레이스 기반 키 복원 실험 · [코드](https://github.com/poketopa/side-channel-attack-cpa-on-aes-128) <sub>(2021)</sub>
+- AES-128 CPA 학부 연구 / [전력 트레이스 기반 키 복원 실험](https://github.com/poketopa/side-channel-attack-cpa-on-aes-128) <sub>(2021)</sub>
 - 멋쟁이사자처럼 운영진 <sub>(2025)</sub>
-- Kuality 해킹 동아리 · KoRec 암호 동아리 <sub>(20.03–21.12)</sub>
-- 공군 정보보호병 · 병장 만기전역 <sub>(22.04–24.01)</sub>
+- Kuality 해킹 동아리 <sub>(20.03–21.12)</sub>
+- KoRec 암호 동아리 <sub>(20.03–21.12)</sub>
+- 공군 정보보호병 만기전역 <sub>(22.04–24.01)</sub>
 
 <br/>
 
