@@ -1,10 +1,12 @@
-### 교육
+### 📖 교육
 
 - 우아한테크코스 8기 백엔드 과정 <sub>(26.02–26.11 예정 · 진행 중)</sub>
 - 고려대학교 세종캠퍼스 인공지능사이버보안학과 공학사 <sub>(20.03–26.02)</sub>
 - 수도권 ICT 이노베이션스퀘어 블록체인 심화 수료 / 팀 프로젝트 최우수상 <sub>(24.08–24.10)</sub>
 
-### 특허
+<br>
+
+### 📄 특허
 
 [블록체인을 기반으로한 구매 영수증 관리 시스템 및 그 방법](https://patents.google.com/patent/KR20260062002A/en)
 
@@ -13,7 +15,9 @@ NFT 기반 구매 영수증 관리 아이디어를 발명 및 특허 출원
 - 출원번호: 10-2024-0201784
 - 공개번호: 10-2026-0062002
 
-### 오픈 소스
+<br>
+
+### 🖇️ 오픈 소스
 
 | Project | Contribution | Pull request |
 | --- | --- | --- |
@@ -23,7 +27,9 @@ NFT 기반 구매 영수증 관리 아이디어를 발명 및 특허 출원
 | <a href="https://github.com/line/armeria"><img src="https://github.com/line.png?size=64" width="24" height="24" alt="LINE" align="absmiddle" /> <strong>Armeria</strong></a> | 요청 로그의 민감 쿼리 파라미터 마스킹 API | [![Open #6927](https://img.shields.io/badge/Open-%236927-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/line/armeria/pull/6927) |
 | <a href="https://github.com/toss/es-git"><img src="https://github.com/toss.png?size=64" width="24" height="24" alt="Toss" align="absmiddle" /> <strong>es-git</strong></a> | 원격 자격증명 입력 검증과 panic 방지 | [![Open #223](https://img.shields.io/badge/Open-%23223-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/toss/es-git/pull/223) |
 
-### 자격증
+<br>
+
+### 🪪 자격증
 
 - 정보처리기사 <sub>(2025)</sub>
 - SQL 개발자(SQLD) <sub>(26.03)</sub>
@@ -31,7 +37,9 @@ NFT 기반 구매 영수증 관리 아이디어를 발명 및 특허 출원
 - 네트워크관리사 2급 <sub>(21.12)</sub>
 - OPIc English IH <sub>(26.07)</sub>
 
-### 활동
+<br>
+
+### 🧑🏻‍💻 활동
 
 - 제5대 인공지능사이버보안학과 학생회장 <sub>(21.03–21.12)</sub>
 - AES-128 CPA 학부 연구 · 전력 트레이스 기반 키 복원 실험 · [코드](https://github.com/poketopa/side-channel-attack-cpa-on-aes-128) <sub>(2021)</sub>
