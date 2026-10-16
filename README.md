@@ -55,7 +55,6 @@ NFT 기반 구매 영수증 관리 아이디어를 발명 및 특허 출원
 <div align="center">
 
 #### Contributions
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 
 <br/>
 
