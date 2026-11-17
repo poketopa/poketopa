@@ -34,7 +34,8 @@ Co-inventor, Korean Patent No. 10-3028570 (registered Sep 2026): [blockchain-bas
 - Korea University — Bachelor of Engineering, Department of AI Cyber Security <sub>(Mar 2020 – Feb 2026)</sub>
 - ICT Innovation Square, Advanced Blockchain Course — Best Team Project Award <sub>(Aug 2024 – Oct 2024)</sub>
 
-### Certifications
+<details>
+<summary><strong>Certifications</strong></summary>
 
 - English: OPIc IH (Intermediate High) <sub>(Jul 2026)</sub>
 - SQL Developer (SQLD) <sub>(Mar 2026)</sub>
@@ -42,13 +43,18 @@ Co-inventor, Korean Patent No. 10-3028570 (registered Sep 2026): [blockchain-bas
 - Linux Master Level 2 <sub>(Dec 2023)</sub>
 - Network Administrator Level 2 <sub>(Dec 2021)</sub>
 
-### Activities
+</details>
+
+<details>
+<summary><strong>Activities</strong></summary>
 
 - Organizer, LIKELION (university coding club) <sub>(2025)</sub>
 - Republic of Korea Air Force, information security specialist (mandatory service) <sub>(Apr 2022 – Jan 2024)</sub>
 - President, Student Council of the Department of AI Cyber Security <sub>(Mar 2021 – Dec 2021)</sub>
 - Undergraduate research: [CPA key recovery on AES-128](https://github.com/poketopa/side-channel-attack-cpa-on-aes-128) <sub>(2021)</sub>
 - Kuality (hacking club), KoRec (cryptography club) <sub>(Mar 2020 – Dec 2021)</sub>
+
+</details>
 
 <br/>
 
@@ -58,10 +64,21 @@ Co-inventor, Korean Patent No. 10-3028570 (registered Sep 2026): [blockchain-bas
 
 <br/>
 
-#### Solved.ac
-<a href="https://solved.ac/lhs5427ll/">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhs5427ll" height="170" />
-</a>
+#### GitHub & BOJ Stats
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <strong>Solved.ac</strong><br/><br/>
+      <a href="https://solved.ac/lhs5427ll/">
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lhs5427ll" height="170" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <strong>GitHub Stats</strong><br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=poketopa&theme=vue&hide_border=false" alt="streak stats" >
+    </td>
+  </tr>
+</table>
 
 <br/>
 
