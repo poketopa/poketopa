@@ -4,7 +4,7 @@ Backend engineer working with Java, Spring Boot, and PostgreSQL. I write at [pok
 
 Web service that records team meetings and turns them into transcripts and decision notes. I work on the backend for recording sessions, audio uploads, and transcription processing, in a team of 5 at Woowa Tech Course, a 10-month software engineering program run by Woowa Brothers.
 
-[knoted.kr](https://knoted.kr) · [woowacourse-teams/2026-knot](https://github.com/woowacourse-teams/2026-knot)
+Live at [knoted.kr](https://knoted.kr), source at [woowacourse-teams/2026-knot](https://github.com/woowacourse-teams/2026-knot).
 
 ### Open Source
 
