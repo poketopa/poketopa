@@ -1,57 +1,78 @@
-### 📖 교육
+### 👋 Hi, I'm HyunSung Lim
 
-- 우아한테크코스 8기 백엔드 과정 <sub>(26.02–26.11)</sub>
-- 고려대학교 세종캠퍼스 인공지능사이버보안학과 공학사 <sub>(20.03–26.02)</sub>
-- 수도권 ICT 이노베이션스퀘어 블록체인 심화 수료 / 팀 프로젝트 최우수상 <sub>(24.08–24.10)</sub>
+Backend engineer working with Java, Spring Boot, and PostgreSQL.
 
-<br>
-
-### 📄 특허
-
-[블록체인을 기반으로한 구매 영수증 관리 시스템 및 그 방법](https://doi.org/10.8080/1020240201784)
-
-NFT 기반 구매 영수증 관리 시스템 등록 특허 공동발명자
-
-<sub>등록 번호: 10-3028570</sub> <br>
-<sub>등록일: 2026.09.30</sub>
+[Blog](https://poketopa.github.io)
 
 <br>
 
-### 🖇️ 오픈 소스
+### 🪢 Knot
+
+[knoted.kr](https://knoted.kr) · [woowacourse-teams/2026-knot](https://github.com/woowacourse-teams/2026-knot)
+
+Web service that records team meetings and turns them into transcripts and decision notes, so a team can find what it agreed on. Built by a team of 5 (2 backend, 3 frontend) at Woowa Tech Course.
+
+I work on the backend for recording sessions, audio uploads, and transcription processing. <sub>(Aug 2026 – Nov 2026)</sub>
+
+<br>
+
+### 🖇️ Open Source
 
 | Project | Contribution | Pull request |
 | --- | --- | --- |
-| <a href="https://github.com/toss/es-git"><img src="https://github.com/toss.png?size=64" width="24" height="24" alt="Toss" align="absmiddle" /> <strong>es-git</strong></a> | 외부 서명용 commit buffer/signed commit API 구현 | [![Merged #221](https://img.shields.io/badge/Merged-%23221-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/toss/es-git/pull/221) |
-| <a href="https://github.com/toss/es-git"><img src="https://github.com/toss.png?size=64" width="24" height="24" alt="Toss" align="absmiddle" /> <strong>es-git</strong></a> | Node.js 지원 버전과 영문/한글 설치 문서 정비 | [![Merged #222](https://img.shields.io/badge/Merged-%23222-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/toss/es-git/pull/222) |
-| <a href="https://github.com/toss/es-toolkit"><img src="https://github.com/toss.png?size=64" width="24" height="24" alt="Toss" align="absmiddle" /> <strong>es-toolkit</strong></a> | `fp/intersectionBy` 지연 평가의 중복 결과 버그 수정과 회귀 테스트 추가 | [![Merged #2146](https://img.shields.io/badge/Merged-%232146-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/toss/es-toolkit/pull/2146) |
-| <a href="https://github.com/naver/roma"><img src="https://github.com/naver.png?size=64" width="24" height="24" alt="NAVER" align="absmiddle" /> <strong>RoMa</strong></a> | `procrustes_naive` 특이값의 배치 차원 복원 버그 수정과 회귀 테스트 추가 | [![Applied #35](https://img.shields.io/badge/Applied-%2335-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/naver/roma/pull/35) |
-| <a href="https://github.com/line/armeria"><img src="https://github.com/line.png?size=64" width="24" height="24" alt="LINE" align="absmiddle" /> <strong>Armeria</strong></a> | 잘못된 Protobuf/JSON 요청의 400 응답 처리와 원인 예외 보존 | [![Merged #7063](https://img.shields.io/badge/Merged-%237063-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/line/armeria/pull/7063) |
-| <a href="https://github.com/line/centraldogma"><img src="https://github.com/line.png?size=64" width="24" height="24" alt="LINE" align="absmiddle" /> <strong>Central Dogma</strong></a> | 잘못된 미러/자격증명 파일로 인한 프로젝트 전체 미러 로딩/스케줄링 실패 방지 | [![Merged #1379](https://img.shields.io/badge/Merged-%231379-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/line/centraldogma/pull/1379) |
-| <a href="https://github.com/kakao/actionbase"><img src="https://github.com/kakao.png?size=64" width="24" height="24" alt="Kakao" align="absmiddle" /> <strong>actionbase</strong></a> | `ByteArrayBufferPool` 고갈 시 대체 버퍼 할당으로 NPE 방지와 회귀 테스트 추가 | [![Merged #515](https://img.shields.io/badge/Merged-%23515-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/kakao/actionbase/pull/515) |
-| <a href="https://github.com/chattymin/PokeTokenBar"><img src="https://github.com/chattymin.png?size=64" width="24" height="24" alt="chattymin" align="absmiddle" /> <strong>PokeTokenBar</strong></a> | 대용량 Codex 로그의 Swift 스트리밍 처리와 메모리 회귀 테스트 구현 | [![Merged #184](https://img.shields.io/badge/Merged-%23184-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/chattymin/PokeTokenBar/pull/184) |
-| <a href="https://github.com/toss/es-git"><img src="https://github.com/toss.png?size=64" width="24" height="24" alt="Toss" align="absmiddle" /> <strong>es-git</strong></a> | 원격 자격증명 입력 검증과 panic 방지 | [![Open #223](https://img.shields.io/badge/Open-%23223-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/toss/es-git/pull/223) |
-| <a href="https://github.com/line/armeria"><img src="https://github.com/line.png?size=64" width="24" height="24" alt="LINE" align="absmiddle" /> <strong>Armeria</strong></a> | 요청 로그의 민감 쿼리 파라미터 마스킹 API | [![Open #6927](https://img.shields.io/badge/Open-%236927-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/line/armeria/pull/6927) |
+| <a href="https://github.com/naver/fixture-monkey"><img src="https://github.com/naver.png?size=64" width="24" height="24" alt="NAVER" align="absmiddle" /> <strong>Fixture Monkey</strong></a> | Fixed a regression that generated mixed-subtype collections as a single subtype; corrected type inference and added regression tests | [![Merged #1353](https://img.shields.io/badge/Merged-%231353-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/naver/fixture-monkey/pull/1353) |
+| <a href="https://github.com/toss/es-git"><img src="https://github.com/toss.png?size=64" width="24" height="24" alt="Toss" align="absmiddle" /> <strong>es-git</strong></a> | Added commit-buffer and signed-commit APIs for external signing | [![Merged #221](https://img.shields.io/badge/Merged-%23221-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/toss/es-git/pull/221) |
+| <a href="https://github.com/toss/es-git"><img src="https://github.com/toss.png?size=64" width="24" height="24" alt="Toss" align="absmiddle" /> <strong>es-git</strong></a> | Aligned supported Node.js versions and updated the English/Korean installation docs | [![Merged #222](https://img.shields.io/badge/Merged-%23222-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/toss/es-git/pull/222) |
+| <a href="https://github.com/toss/es-toolkit"><img src="https://github.com/toss.png?size=64" width="24" height="24" alt="Toss" align="absmiddle" /> <strong>es-toolkit</strong></a> | Fixed duplicate results in lazy `fp/intersectionBy` and added regression tests | [![Merged #2146](https://img.shields.io/badge/Merged-%232146-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/toss/es-toolkit/pull/2146) |
+| <a href="https://github.com/naver/roma"><img src="https://github.com/naver.png?size=64" width="24" height="24" alt="NAVER" align="absmiddle" /> <strong>RoMa</strong></a> | Fixed batch-dimension restoration of singular values in `procrustes_naive` and added regression tests | [![Applied #35](https://img.shields.io/badge/Applied-%2335-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/naver/roma/pull/35) |
+| <a href="https://github.com/line/armeria"><img src="https://github.com/line.png?size=64" width="24" height="24" alt="LINE" align="absmiddle" /> <strong>Armeria</strong></a> | Returned 400 instead of 500 for malformed Protobuf/JSON requests while preserving the cause exception | [![Merged #7063](https://img.shields.io/badge/Merged-%237063-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/line/armeria/pull/7063) |
+| <a href="https://github.com/line/centraldogma"><img src="https://github.com/line.png?size=64" width="24" height="24" alt="LINE" align="absmiddle" /> <strong>Central Dogma</strong></a> | Kept one invalid mirror or credential file from failing mirror loading and scheduling for the whole project | [![Merged #1379](https://img.shields.io/badge/Merged-%231379-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/line/centraldogma/pull/1379) |
+| <a href="https://github.com/kakao/actionbase"><img src="https://github.com/kakao.png?size=64" width="24" height="24" alt="Kakao" align="absmiddle" /> <strong>actionbase</strong></a> | Prevented an NPE when `ByteArrayBufferPool` is exhausted by allocating a fallback buffer; added regression tests | [![Merged #515](https://img.shields.io/badge/Merged-%23515-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/kakao/actionbase/pull/515) |
+| <a href="https://github.com/chattymin/PokeTokenBar"><img src="https://github.com/chattymin.png?size=64" width="24" height="24" alt="chattymin" align="absmiddle" /> <strong>PokeTokenBar</strong></a> | Implemented streaming parsing of large Codex logs in Swift, with memory regression tests | [![Merged #184](https://img.shields.io/badge/Merged-%23184-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/chattymin/PokeTokenBar/pull/184) |
+| <a href="https://github.com/toss/es-git"><img src="https://github.com/toss.png?size=64" width="24" height="24" alt="Toss" align="absmiddle" /> <strong>es-git</strong></a> | Validated remote credential inputs to prevent panics | [![Open #223](https://img.shields.io/badge/Open-%23223-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/toss/es-git/pull/223) |
+| <a href="https://github.com/line/armeria"><img src="https://github.com/line.png?size=64" width="24" height="24" alt="LINE" align="absmiddle" /> <strong>Armeria</strong></a> | Added an API for masking sensitive query parameters in request logs | [![Open #6927](https://img.shields.io/badge/Open-%236927-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/line/armeria/pull/6927) |
 
 <br>
 
-### 🪪 자격증
+<br>
 
-- 정보처리기사 <sub>(2025)</sub>
-- SQL 개발자(SQLD) <sub>(26.03)</sub>
-- 리눅스마스터 2급 <sub>(23.12)</sub>
-- 네트워크관리사 2급 <sub>(21.12)</sub>
-- OPIc English IH <sub>(26.07)</sub>
+### 📄 Patent
+
+[Blockchain-based purchase receipt management system and method](https://doi.org/10.8080/1020240201784)
+
+Co-inventor of a registered Korean patent for an NFT-based purchase receipt management system.
+
+<sub>Registration No. 10-3028570</sub> <br>
+<sub>Registered: Sep 30, 2026</sub>
 
 <br>
 
-### 🧑🏻‍💻 활동
+### 📖 Education
 
-- 제5대 인공지능사이버보안학과 학생회장 <sub>(21.03–21.12)</sub>
-- AES-128 CPA 학부 연구 / [전력 트레이스 기반 키 복원 실험](https://github.com/poketopa/side-channel-attack-cpa-on-aes-128) <sub>(2021)</sub>
-- 멋쟁이사자처럼 운영진 <sub>(2025)</sub>
-- Kuality 해킹 동아리 <sub>(20.03–21.12)</sub>
-- KoRec 암호 동아리 <sub>(20.03–21.12)</sub>
-- 공군 정보보호병 만기전역 <sub>(22.04–24.01)</sub>
+- Woowa Tech Course, Backend Track (8th cohort) <sub>(Feb 2026 – Nov 2026)</sub>
+- Korea University — Bachelor of Engineering, Department of AI Cyber Security <sub>(Mar 2020 – Feb 2026)</sub>
+- ICT Innovation Square (Seoul metropolitan area), Advanced Blockchain Course — Best Team Project Award <sub>(Aug 2024 – Oct 2024)</sub>
+
+<br>
+
+### 🪪 Certifications
+
+- Engineer Information Processing <sub>(2025)</sub>
+- SQL Developer (SQLD) <sub>(Mar 2026)</sub>
+- Linux Master Level 2 <sub>(Dec 2023)</sub>
+- Network Administrator Level 2 <sub>(Dec 2021)</sub>
+- OPIc English IH <sub>(Jul 2026)</sub>
+
+<br>
+
+### 🧑🏻‍💻 Activities
+
+- President, 5th Student Council of the Department of AI Cyber Security <sub>(Mar 2021 – Dec 2021)</sub>
+- Undergraduate research on CPA against AES-128 / [key recovery from power traces](https://github.com/poketopa/side-channel-attack-cpa-on-aes-128) <sub>(2021)</sub>
+- Organizer, LIKELION <sub>(2025)</sub>
+- Kuality, hacking club <sub>(Mar 2020 – Dec 2021)</sub>
+- KoRec, cryptography club <sub>(Mar 2020 – Dec 2021)</sub>
+- Republic of Korea Air Force, information security specialist <sub>(Apr 2022 – Jan 2024)</sub>
 
 <br/>
 
@@ -85,7 +106,7 @@ NFT 기반 구매 영수증 관리 시스템 등록 특허 공동발명자
 
 #### Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,redis,kafka,docker,kubernetes,aws,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,aws,githubactions,grafana,prometheus&theme=dark" />
 </p>
 
 </div>
