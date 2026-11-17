@@ -30,7 +30,7 @@ Co-inventor, Korean Patent No. 10-3028570 (registered Sep 2026): [blockchain-bas
 
 ### Education
 
-- Woowa Tech Course, Backend Track (8th cohort) <sub>(Feb 2026 – Nov 2026)</sub>
+- Woowa Tech Course, Backend Track (8th cohort) <sub>(Feb 2026 – Dec 2026)</sub>
 - Korea University — Bachelor of Engineering, Department of AI Cyber Security <sub>(Mar 2020 – Feb 2026)</sub>
 - ICT Innovation Square, Advanced Blockchain Course — Best Team Project Award <sub>(Aug 2024 – Oct 2024)</sub>
 
