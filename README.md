@@ -24,9 +24,11 @@ Web service that records team meetings and turns them into transcripts and decis
 
 <br>
 
-### Patent
+### Patent & Related Project
 
 Co-inventor, Korean Patent No. 10-3028570 (registered Sep 2026): [blockchain-based purchase receipt management system](https://doi.org/10.8080/1020240201784)
+
+[Naesan](https://github.com/poketopa/naesan) — a solo project that redesigns the patent's idea as a product-pass service (Java, Spring Boot, PostgreSQL), with a transactional outbox and on-chain commitments.
 
 ### Education
 
